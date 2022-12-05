@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @atifasad_khan
-- 👀 I’m interested in web dev
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on web development roles.
 - 📫 How to reach me ...@atifasad_khan search it on any social media.
